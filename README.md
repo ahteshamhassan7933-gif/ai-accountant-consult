@@ -1,2 +1,5 @@
-# ai-accountant-consult
-AI Automation Consultant for UK Chartered Accountants — landing
+# AI Automation for UK Chartered Accountants
+
+Landing page. Deploy via GitHub Pages.
+
+Owner: Ahtesham Hassan
